@@ -9,5 +9,4 @@ done
 done2
 
 On a branch
-
-This is an issue
+This is a conflicting line created
