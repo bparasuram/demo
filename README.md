@@ -2,7 +2,7 @@
 
 This is a sample readme file.
 
-adding from vscode and additional
+adding from vscode and additional getting from source
 #HEADING
 
 done
